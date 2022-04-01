@@ -1,0 +1,8 @@
+- repository: autowarefoundation/autoware
+  files:
+    - source: CONTRIBUTING.md
+    - source: .github/ISSUE_TEMPLATE/config.yml
+    - source: .github/ISSUE_TEMPLATE/task.yaml
+    - source: .github/dependabot.yaml
+    - source: .github/stale.yml
+    - source: .github/workflows/sync-files.yaml
